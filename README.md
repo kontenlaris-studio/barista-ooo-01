@@ -1,3 +1,13 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280">
+
+<p><em>Last out of office: the AI that went barista.</em></p>
+
+[![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)][![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)][![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)]
+</div>
+
+---
+
 # barista-ooo-01
 
 [![make.fun · u-steady-puffin-78-1922-last-out-of-office-the-ai-e008ee3c](https://make.fun/badge/u-steady-puffin-78-1922-last-out-of-office-the-ai-e008ee3c.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-last-out-of-office-the-ai-e008ee3c?utm_source=github&utm_medium=readme&utm_campaign=u-steady-puffin-78-1922-last-out-of-office-the-ai-e008ee3c)
